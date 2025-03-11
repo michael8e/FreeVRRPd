@@ -1,5 +1,5 @@
 /// tflclck
-/// Mateusz Piotrowski
+/// Michael
 /// 2014
 
 #include <time.h>
